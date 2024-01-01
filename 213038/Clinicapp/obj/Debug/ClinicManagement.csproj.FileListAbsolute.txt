@@ -1,0 +1,2 @@
+C:\Users\213038\Downloads\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.AssemblyReference.cache
+C:\Users\213038\Downloads\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.CoreCompileInputs.cache
